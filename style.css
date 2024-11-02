@@ -1,0 +1,8 @@
+.background-image {
+    background-image: url('https://www.dropbox.com/scl/fi/ktz0ilra8ax4brtmuzs56/image-f-png.png?rlkey=7hm5gmnz2978latxif3v3y0r8&st=zgpa88l6&raw=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 300px;
+}
